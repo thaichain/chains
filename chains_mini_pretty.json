@@ -1871,6 +1871,19 @@
   "faucets": [],
   "infoURL": "https://soraai.bot"
 }, {
+  "name": "Depinfra",
+  "chainId": 146,
+  "shortName": "depinfra",
+  "networkId": 146,
+  "nativeCurrency": {
+    "name": "Depinfra Token",
+    "symbol": "DIF",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.depinfra.xyz"],
+  "faucets": [],
+  "infoURL": "https://depinfra.xyz"
+}, {
   "name": "Flag Mainnet",
   "chainId": 147,
   "shortName": "FLAG",

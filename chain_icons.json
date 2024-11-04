@@ -3231,6 +3231,14 @@
     "format": "png"
   }]
 }, {
+  "name": "dif",
+  "icons": [{
+    "url": "ipfs://QmNfnbsFP9cF7ZiXUQUu6NS1rNM4qm7EqzJJyKhh9jLV5L",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "opside",
   "icons": [{
     "url": "ipfs://QmeCyZeibUoHNoYGzy1GkzH2uhxyRHKvH51PdaUMer4VTo",

@@ -143,6 +143,7 @@
   "dax": "eip155:142",
   "PHI": "eip155:144",
   "SETH": "eip155:145",
+  "depinfra": "eip155:146",
   "FLAG": "eip155:147",
   "shimmerevm": "eip155:148",
   "sixt": "eip155:150",
