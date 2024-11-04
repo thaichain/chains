@@ -1,0 +1,24 @@
+{
+  "name": "Depinfra",
+  "chain": "DIF",
+  "rpc": ["https://rpc.depinfra.xyz"],
+  "faucets": [],
+  "features": [{ "name": "EIP155" }, { "name": "EIP1559" }],
+  "nativeCurrency": {
+    "name": "Depinfra Token",
+    "symbol": "DIF",
+    "decimals": 18
+  },
+  "infoURL": "https://depinfra.xyz",
+  "shortName": "depinfra",
+  "chainId": 146,
+  "networkId": 146,
+  "icon": "dif",
+  "explorers": [
+    {
+      "name": "Depinfra Explorer",
+      "url": "https://exp.depinfra.xyz",
+      "standard": "EIP3091"
+    }
+  ]
+}
